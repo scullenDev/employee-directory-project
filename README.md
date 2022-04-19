@@ -5,7 +5,7 @@
 ---------
 
 ## Description:
-Over the next few days, you and a partner will be building a React app similar to the demo seen below. This app will firm up your existing knowledge of the React basics (components, JSX, props, state, events) and also utilize newer skills like controlled forms, the `useEffect()` hook, and API calls. Each pair will collaborate on a shared GitHub repository, and each person should contribute roughly half of the code contained within the repository. Although you will be working most closely with your partner, you are both encouraged to work with the rest of the team to discuss strategy, debug issues, review code, etc.
+Over the next few days, you and a partner will be building a React app similar to the demo seen below. This app will firm up your existing knowledge of the React basics (components, JSX, props, state, events) and also utilize newer skills like controlled forms, custom component methods, the `useEffect()` hook, and API calls. Each pair will collaborate on a shared GitHub repository, and each person should contribute roughly half of the code contained within the repository. Although you will be working most closely with your partner, you are both encouraged to work with the rest of the team to discuss strategy, debug issues, review code, etc.
 
 Below you will see a demo of an Employee Directory app that allows searching and sorting of a list of employees, and the ability to add a new employee to the list. **Note that your app does not need to be an employee directory in particular:** you and your partner may choose to make a contact list app, a budget management app, a searchable pet adoption app, etc etc etc. So long as the app you create meets the [core requirements](#requirements) listed below, feel free to choose an idea that you and your partner are excited to build!
 
@@ -15,7 +15,7 @@ Below you will see a demo of an Employee Directory app that allows searching and
 
 ![Employee Directory Functionality Demo](employee-directory-demo.gif)
 
-[View larger version of demo here](https://watch.screencastify.com/v/9EB97BcHHvZw2y7D58UD)
+[View larger version of demo here](https://watch.screencastify.com/v/9EB97BcHHvZw2y7D58UD).
 
 ---------
 
@@ -24,8 +24,8 @@ Below you will see a demo of an Employee Directory app that allows searching and
 - [ ] Take time with your partner to read through the [core requirements](#requirements) below, and to choose an idea to fulfill these requirements.
 - [ ] Next, build out simple wireframes for your app using [wireframe.cc](https://wireframe.cc/), [Figma](https://www.figma.com/) or a similar tool. Use these wireframes to determine how to divide your app up into modular components, and to determine how you and your partner can divide up the necessary tasks.
 - [ ] Consider using [Trello](http://trello.com) to create a project board to track tasks, priorities, and deadlines, and for visibility into what each partner is working on. [See here](https://trello.com/b/WjhFXOdJ/demo-project-board) for an example of how one might be organized.
-- [ ] One partner should create a GitHub repository for your app, and should add the other partner as a collaborator. After the repo is set up, work together to set up [branch protections](https://docs.github.com/en/enterprise-server@3.2/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and determine a game plan for Git branching.
-- [] **All work should be done within branches, and code should only be moved to your `main`/`master` branch by way of partner-approved pull requests. As you work, do regular adds/commits to give yourself multiple "save points" just in case something goes wrong.
+- [ ] One partner should create a GitHub repository for your app, and should add the other partner **AND** `scullenBitwise` a collaborator. After the repo is set up, work together to set up [branch protections](https://docs.github.com/en/enterprise-server@3.2/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and determine a game plan for Git branching.
+- [ ] **All work should be done within branches, and code should only be moved to your `main`/`master` branch by way of partner-approved pull requests. As you work, do regular adds/commits to give yourself multiple "save points" just in case something goes wrong.**
 - [ ] Use clear, descriptive, and professional commit messages. (This will make things easier if you ever have to revert to a prior commit).
 - [ ] One partner should use create-react-app to generate a new React app for your app: `npx create-react-app project-name-here`. If you need help getting your project linked up to a GitHub repo, just ask! Once this code has been merged into the `main`/`master` branch, the other partner can clone the repo, create a branch, and get started developing!
 - [ ] Use the demos provided in class for reference. [Here](https://github.com/scullenBitwise/react-apprenticeship) is a link to the full demo repo.
