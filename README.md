@@ -15,6 +15,8 @@ Below you will see a demo of an Employee Directory app that allows searching and
 
 ![Employee Directory Functionality Demo](employee-directory-demo.gif)
 
+[View larger version of demo here](https://watch.screencastify.com/v/9EB97BcHHvZw2y7D58UD)
+
 ---------
 
 ## Getting Started:
